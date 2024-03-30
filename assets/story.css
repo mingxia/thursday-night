@@ -1608,7 +1608,6 @@ footer {
     z-index: 999;
     justify-content: center;
     align-items: center;
-    display: flex;
   }
 
   /* 弹出框样式 */
