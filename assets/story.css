@@ -1578,7 +1578,13 @@ footer:where(.astro-WZT4TL4E) {
     transform-origin: left center;
     transition: all .15s ease-in-out
 }
-.container {
+.container1 {
+  display: inline-block;
+  padding: 0 7px;
+  width: 70px;
+}
+
+.container2 {
   display: inline-block;
   padding: 0 7px;
   width: 90px;
